@@ -1,0 +1,24 @@
+{
+    "pkg-desc": "Give predefined packages of items to given player",
+    "pkg-desc-admin": "Privilege needed to manage refresh and items command",
+    "pkg-desc-user": "Privilege needed use the give and list packages",
+
+    "pkg-refresh": "Refresh Packages file",
+    "pkg-init-success": "Package list successfully refreshed",
+    "pkg-init-error": "Unable to refresh Package List, please check server logs",
+
+    "pkg-give": "Give given package to the player",
+    "pkg-give-args-package": "package name",
+    "pkg-give-args-player": "target player",
+    "pkg-give-success": "Package given to {0}",
+    "pkg-give-error": "Unable to give package",
+
+    "pkg-items": "Create file with all registered items in server",
+    "pkg-items-success": "All items written to file {0}",
+    "pkg-items-error": "Unable to write items in file, please check server logs",
+    
+    "pkg-list": "List all packages with its description",
+    
+    "no-package": "This package does not exist",
+    "no-player": "This player does not exist"
+}

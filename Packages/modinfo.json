@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "packages",
+    "name": "Packages",
+    "authors": [
+        "Kareylo"
+    ],
+    "description": "A small mod to give preconfigured packages to given player",
+    "requiredOnClient": false,
+    "requiedOnServer": true,
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.8"
+    }
+}

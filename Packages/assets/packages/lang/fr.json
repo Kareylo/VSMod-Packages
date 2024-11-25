@@ -1,0 +1,24 @@
+{
+    "pkg-desc": "Permet de donner un paquet d'objets prédéfinis à un joueur",
+    "pkg-desc-admin": "Privilège nécessaire pour créer le fichier d'objets et pour recharger les paquets",
+    "pkg-desc-user": "Privilège nécessaire pour donner un paquet ou lister les paquets",
+
+    "pkg-refresh": "Rafraichi la liste des paquets en fonction du fichier de paquets",
+    "pkg-init-success": "Liste des paquets rafraichie",
+    "pkg-init-error": "Impossible de rafraichir la liste des paquets, vérifiez les logs serveur",
+
+    "pkg-give": "Donne le paquet défini au joueur",
+    "pkg-give-args-package": "nom du paquet",
+    "pkg-give-args-player": "nom du joueur",
+    "pkg-give-success": "Paquet donné à {0}",
+    "pkg-give-error": "Impossible de donner le paquet",
+
+    "pkg-items": "Crée un fichier avec tous les objets référencés dans le serveur",
+    "pkg-items-success": "Tous les objets ont été écrit dans le fichier {0}",
+    "pkg-items-error": "Une erreur s'est produite lors de l'écriture des objets dans le fichier, vérifiez les logs serveurs",
+
+    "pkg-list": "Liste tous les paquets dispnnibles",
+
+    "no-package": "Ce paquet n'existe pas",
+    "no-player": "Ce joueur n'existe pas"
+}
